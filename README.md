@@ -4,7 +4,7 @@
 
 # String Permuatations 
 
-Write a program which prints all the possible permutations of a string. String has an upper bound of 200 characters. 
+Write a program which prints all the possible number of permutations of a string. String has an upper bound of 200 characters. 
 
 
 <br> 
