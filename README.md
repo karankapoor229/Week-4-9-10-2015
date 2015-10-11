@@ -20,5 +20,4 @@ Write a slideshow which upon execution, shows pictures with fade in and fade out
 Input, would be few images, which could be of any format. Output should just an executable file which should do the above task. 
 
 Recommend Libraries : OpenCV,LoadPNG,EasyBMP,OpenGL <br>
-Input : Some images <br>
-Output : <a href="https://drive.google.com/file/d/0B_mZOcAj6M76RFJWWnZybUtkVVE/view?usp=sharing">https://drive.google.com/file/d/0B_mZOcAj6M76RFJWWnZybUtkVVE/view?usp=sharing</a>
+Sample output : <a href="https://drive.google.com/file/d/0B_mZOcAj6M76RFJWWnZybUtkVVE/view?usp=sharing">https://drive.google.com/file/d/0B_mZOcAj6M76RFJWWnZybUtkVVE/view?usp=sharing</a>
