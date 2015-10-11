@@ -7,7 +7,7 @@
 Write a program which prints all the possible number of permutations of a string. String has an upper bound of 200 characters. 
 Input would be a string from console and the output should be just a number. 
 
-Input: ABADAFAHAJALANAPAAAT
+Input: ABADAFAHAJALANAPAAAT  <br>
 Output: 60949324800
 
 
